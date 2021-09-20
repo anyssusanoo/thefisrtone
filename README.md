@@ -5,9 +5,9 @@
 
 Предложение: Лепит горшок
 
-![image](https://user-images.githubusercontent.com/89846299/133989648-e013ee6d-3c7f-4d13-ac66-e6c35487813b.png)
+![image](https://user-images.githubusercontent.com/89846299/133996701-dd4f40de-4d8a-4fef-8067-b05f32c8b191.png)
 
-Предложение: Гончар лепит горшок с помощью гончарного круга
+Предложение: Гончар лепит горшок по заказу с помощью гончарного круга
 ###### Диаграмма модели
 ![image](https://user-images.githubusercontent.com/89846299/133995382-059951b8-942f-49ad-a3c3-4a42ea1829dd.png)
 ###### Диаграмма прецедентов
