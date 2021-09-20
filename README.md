@@ -11,7 +11,7 @@
 ###### Диаграмма модели
 ![image](https://user-images.githubusercontent.com/89846299/133995382-059951b8-942f-49ad-a3c3-4a42ea1829dd.png)
 ###### Диаграмма прецедентов
-![image](https://user-images.githubusercontent.com/89846299/133992832-2dee4bf1-8bc7-48a5-9de9-3e9980a81a55.png)
+![image](https://user-images.githubusercontent.com/89846299/133995584-d4ff6095-2e46-42bb-a294-ddc0216fa05d.png)
 
 ## Лабораторная 2
 
