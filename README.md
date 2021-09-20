@@ -9,7 +9,7 @@
 
 Предложение: Гончар лепит горшок с помощью гончарного круга
 ###### Диаграмма модели
-![image](https://user-images.githubusercontent.com/89846299/133991987-aeab0618-284a-4325-a32e-19e1d9abe9c1.png)
+![image](https://user-images.githubusercontent.com/89846299/133995382-059951b8-942f-49ad-a3c3-4a42ea1829dd.png)
 ###### Диаграмма прецедентов
 ![image](https://user-images.githubusercontent.com/89846299/133992832-2dee4bf1-8bc7-48a5-9de9-3e9980a81a55.png)
 
