@@ -15,6 +15,10 @@
 
 ## Лабораторная 2
 
+###### IDEF0 diagram
+![image](https://user-images.githubusercontent.com/89846299/135837800-6be1f057-52bb-4274-a75a-acc024589113.png)
+
+
 ## Лабораторная 3
 
 ## Лабораторная 4
