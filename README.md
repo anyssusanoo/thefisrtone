@@ -31,6 +31,8 @@
 ![image](https://user-images.githubusercontent.com/89846299/135851216-2365c318-76e4-4d86-a101-0f627ccd3453.png)
 
 ## Лабораторная 3
+###### DFD-диаграмма (блок:Подготовить):
+![image](https://user-images.githubusercontent.com/89846299/137718071-b1683f41-4685-47b3-b85e-607feda857f7.png)
 
 ## Лабораторная 4
 
