@@ -32,7 +32,7 @@
 
 ## Лабораторная 3
 ###### DFD-диаграмма (блок:Подготовить):
-![image](https://user-images.githubusercontent.com/89846299/137718071-b1683f41-4685-47b3-b85e-607feda857f7.png)
+![image](https://user-images.githubusercontent.com/89846299/137719963-fc1550c9-9a66-4e47-b9fc-df6c1fa116ea.png)
 
 ## Лабораторная 4
 
